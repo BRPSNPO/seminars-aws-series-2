@@ -6,9 +6,9 @@ Abaixo a lista de temas e as documentações, arquiteturas e decks das utilizada
 
 ## Temas
 
-- [Gerenciando multiplas contas com AWS Control Tower]()
-- [Indo além do básico com VPC na AWS]()
-- [Segurança na AWS - Progetendo seu Website]()
-- [Criando seu Datalake na AWS](https://github.com/BRPSNPO/workshops/blob/master/analytics/readme.MD)
-- [Como economizar na AWS com dicas praticas]()
-- [Caminho das pedras para tirar sua certificação AWS]()
+- [Gerenciando multiplas contas com AWS Control Tower - TODO]()
+- [Indo além do básico com VPC na AWS - TODO]()
+- [Segurança na AWS - Progetendo seu Website - TODO]()
+- [Criando seu Datalake na AWS - DONE](https://github.com/BRPSNPO/workshops/blob/master/analytics/readme.MD)
+- [Como economizar na AWS com dicas praticas - TODO]()
+- [Caminho das pedras para tirar sua certificação AWS - TODO]()
