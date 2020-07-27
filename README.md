@@ -1,5 +1,8 @@
 # seminars-aws-series-2
-NPO Series 2º Temporada
+Durante a quarentena obrigatória devido aos cuidados com o COVID19, o time de Non Profits Organizations da AWS Public Sector Brazil criou uma série de seminários online, gratuitos e totalmente tecnicos, para engajar e ajudar clientes neste momento tão dificil vivido por todos nós.
+
+Abaixo a lista de temas e as documentações, arquiteturas e decks das utilizadas nas apresentações.
+
 
 ## Temas
 
