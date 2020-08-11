@@ -37,3 +37,9 @@
 - [VPC](https://www.youtube.com/watch?v=7acKgdDOOu4)
 - [IAM](https://www.youtube.com/watch?v=YQsK4MtsELU)
 - [S3](https://www.youtube.com/watch?v=N_3IaOVcIO0)
+
+# A Prática leva a perfeição SIM
+
+- [Workshops](https://awesome-aws-workshops.com/)
+- [Well Architect](https://www.wellarchitectedlabs.com/)
+
