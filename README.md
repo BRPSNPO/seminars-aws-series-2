@@ -11,4 +11,4 @@ Abaixo a lista de temas e as documentações, arquiteturas e decks das utilizada
 - [Segurança na AWS - Progetendo seu Website - TODO]()
 - [Criando seu Datalake na AWS](https://github.com/BRPSNPO/workshops/blob/master/analytics/readme.MD)
 - [Como economizar na AWS com dicas praticas](economizar.MD)
-- [Caminho das pedras para tirar sua certificação AWS - TODO]()
+- [Caminho das pedras para tirar sua certificação AWS](certification.MD)
